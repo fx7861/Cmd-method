@@ -1,0 +1,13 @@
+cd => change directory
+	cd .. => remonte d'un dossier
+	cd name => aller sur le dossier suivant
+clear => supprime l'historique (abréviation => cls)
+ls => lister les dossiers et fichier repertoire
+	ls -l => voir les droit d'écriture (plus de détail)
+mkdir => créer un dossier 
+touch => créer un fichier
+start . => ouvre le dossier dans une fenêtre windows
+open . => ouvre le dossier dans une fenêtre mac
+code . => ouvre le dossier dans vscode
+rm => supprime un fichier
+rmdir => supprime un dossier (doit être vide)
